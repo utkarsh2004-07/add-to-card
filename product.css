@@ -1,0 +1,14 @@
+.product__image{
+    width: 30%;
+    
+}
+.product{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.button{
+    background-color: red;
+    width: 50%;
+    margin-left: 20px;
+}
